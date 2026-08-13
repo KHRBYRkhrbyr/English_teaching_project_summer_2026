@@ -2,4 +2,4 @@
 
 ## Une introduction courte
 
-C'est la première fois que j'ai essayé GitHub. Ça ira comment ? 
+C'est la première fois que j'essaie GitHub. Ça ira comment ? 
